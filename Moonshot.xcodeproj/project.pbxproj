@@ -16,6 +16,7 @@
 		0038264B2C21C8B1000D3DD2 /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038264A2C21C8B1000D3DD2 /* Astronaut.swift */; };
 		0038264D2C21C8F6000D3DD2 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038264C2C21C8F6000D3DD2 /* Bundle-Decodable.swift */; };
 		0038264F2C21CA6F000D3DD2 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038264E2C21CA6F000D3DD2 /* Mission.swift */; };
+		00BB88FA2C22F22C009B5E1C /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BB88F92C22F22C009B5E1C /* Color-Theme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		0038264A2C21C8B1000D3DD2 /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = "<group>"; };
 		0038264C2C21C8F6000D3DD2 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		0038264E2C21CA6F000D3DD2 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
+		00BB88F92C22F22C009B5E1C /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				0038264C2C21C8F6000D3DD2 /* Bundle-Decodable.swift */,
 				0038263B2C21C2B0000D3DD2 /* Assets.xcassets */,
 				0038263D2C21C2B0000D3DD2 /* Preview Content */,
+				00BB88F92C22F22C009B5E1C /* Color-Theme.swift */,
 			);
 			path = Moonshot;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0038264B2C21C8B1000D3DD2 /* Astronaut.swift in Sources */,
+				00BB88FA2C22F22C009B5E1C /* Color-Theme.swift in Sources */,
 				0038263A2C21C2AF000D3DD2 /* ContentView.swift in Sources */,
 				003826382C21C2AF000D3DD2 /* MoonshotApp.swift in Sources */,
 				0038264F2C21CA6F000D3DD2 /* Mission.swift in Sources */,
